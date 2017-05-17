@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name = "QRCodeImageView">
+        <attr name = "matrix" format = "string"/>
+    </declare-styleable>
+</resources>
